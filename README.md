@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angry-camel
+- 👋 Hi, I’m Fahad
 - 👀 I’m interested in financial data and economics.
 - 🌱 I’m currently learning corprorate tax.
 - 💞️ I’m looking to collaborate on HMRC api and financial data analysis.
